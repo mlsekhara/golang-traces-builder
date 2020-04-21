@@ -12,6 +12,7 @@ Sample golang script to build a nice json output tree that contains the trace of
 
 # Ouput
 
+```json
 {
   "id": "t1",
   "root": {
@@ -46,3 +47,4 @@ Sample golang script to build a nice json output tree that contains the trace of
     "span": "aa"
   }
 }
+```
